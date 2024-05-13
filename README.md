@@ -1,0 +1,1 @@
+This was part of my 100 days of python on replit and this lesson is about creating a dictionary with loop in which we create a dictionary to store differnt website names and information of the website url, rating, etc.
